@@ -9,8 +9,8 @@ export default function ProductList({ selectedTeam }) {
   useEffect(() => {
     if (selectedTeam === 'Todos') {
       setProducts(allProducts);
-    } else {
-      const filtered = allProducts.filter(p => p.equipo === selectedTeam);
+    } else if (Array.isArray(selectedTeam)) {
+      const filtered = allProducts.filter(p => selectedTeam.includes(p.equipo));
       setProducts(filtered);
     }
   }, [selectedTeam]);

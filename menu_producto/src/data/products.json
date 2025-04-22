@@ -28,15 +28,15 @@
     "title": "Camiseta Kevin Durant Brooklyn Nets",
     "price": "$85.000",
     "envio": "Envío gratis",
-    "image": "https://www.nba.com/assets/logos/teams/primary/LAR/primary_LAR_Light.png",
+    "image": "https://m.media-amazon.com/images/I/717TYTxyx8L._AC_SX679_.jpg",
     "equipo": "Nets"
   },
   {
     "id": 5,
-    "title": "Camiseta Giannis Antetokounmpo Bucks",
+    "title": "Camiseta Giannis Antetokounmpo Milwaukee Bucks",
     "price": "$90.000",
     "envio": "Envío gratis",
-    "image": "https://cdn.nba.com/logos/nba/1610612749/primary_Large.png",
+    "image": "https://m.media-amazon.com/images/I/61jqq6gSeiL._AC_SX522_.jpg",
     "equipo": "Bucks"
   },
   {
@@ -44,7 +44,7 @@
     "title": "Camiseta Kawhi Leonard Clippers",
     "price": "$95.000",
     "envio": "Envío gratis",
-    "image": "https://cdn.nba.com/logos/nba/1610612746/primary_Large.png",
+    "image": "https://m.media-amazon.com/images/I/61K6aRxr0hL._AC_SX679_.jpg",
     "equipo": "Clippers"
   },
   {
@@ -52,31 +52,31 @@
     "title": "Camiseta Luka Dončić Mavericks",
     "price": "$80.000",
     "envio": "Envío gratis",
-    "image": "https://cdn.nba.com/logos/nba/1610612742/primary_Large.png",
+    "image": "https://m.media-amazon.com/images/I/815YkJRGEjL._AC_SX679_.jpg",
     "equipo": "Mavericks"
   },
   {
     "id": 8,
-    "title": "Camiseta James Harden Philadelphia 76ers",
+    "title": "Camiseta Joel Embiid Philadelphia 76ers",
     "price": "$85.000",
     "envio": "Envío gratis",
-    "image": "https://cdn.nba.com/logos/nba/1610612755/primary_Large.png",
+    "image": "https://m.media-amazon.com/images/I/61UaLoa-uyL._AC_SY679_.jpg",
     "equipo": "76ers"
   },
   {
     "id": 9,
-    "title": "Camiseta Damian Lillard Trail Blazers",
+    "title": "Camiseta Damian Lillard Milwaukee Bucks",
     "price": "$75.000",
     "envio": "Envío gratis",
-    "image": "https://cdn.nba.com/logos/nba/1610612757/primary_Large.png",
-    "equipo": "Trail Blazers"
+    "image": "https://m.media-amazon.com/images/I/71a2fKjy5ML._AC_SX679_.jpg",
+    "equipo": "Bucks"
   },
   {
     "id": 10,
-    "title": "Camiseta Jayson Tatum Celtics",
+    "title": "Camiseta Lamelo Ball Hornets",
     "price": "$88.000",
     "envio": "Envío gratis",
-    "image": "https://cdn.nba.com/logos/nba/1610612738/primary_Large.png",
-    "equipo": "Celtics"
+    "image": "https://throwbackstore.com.au/cdn/shop/products/Nike_Lamelo_Ball_Charlotte_Hornets_Icon_Edition_Jersey_CN8016-453_Back.jpg?v=1632117090&width=3000",
+    "equipo": "Hornets"
   }
 ]
