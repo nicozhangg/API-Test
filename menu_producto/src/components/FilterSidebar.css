@@ -1,0 +1,5 @@
+.filter-sidebar {
+    position: relative;
+    left: -35%; /* Mueve el filtro hacia la izquierda */
+  }
+  
